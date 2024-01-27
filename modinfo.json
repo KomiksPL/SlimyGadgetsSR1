@@ -1,0 +1,13 @@
+{
+  "id": "slimygadgets",
+  "name": "Slimy Gadgets",
+  "author": "KomiksPL",
+  "description": "Adds Lamps, Warp Depots, and Teleporters for the missing non-modded slimes.",
+  "version":  "1.1",
+  "load_after": [
+    "translationapi"
+  ],
+  "load_before": [
+    "miscfashionpods"
+  ]
+}
